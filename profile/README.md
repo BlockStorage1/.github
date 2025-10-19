@@ -1,4 +1,4 @@
-# 🧱 Block Storage
+# Block Storage
 > Building secure, distributed, and open storage systems.
 
 **Block Storage** is a collection of open-source projects focused on next-generation storage, encryption, and filesystem technologies.  
